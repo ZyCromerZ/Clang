@@ -1,1 +1,1 @@
-https://github.com/ZyCromerZ/Clang/releases/download/17.0.0-20230707-release/Clang-17.0.0-20230707.tar.gz
+https://github.com/ZyCromerZ/Clang/releases/download/17.0.0-20230708-release/Clang-17.0.0-20230708.tar.gz
