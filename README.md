@@ -1,6 +1,6 @@
-# QUICK INFO
-- compiler script : https://github.com/ZyCromerZ/tc-build
-- just, thats it xD
-# SDClang 16.x.x
-- 16.0.2.0: https://gitlab.com/ZyCromerZ/sdclang-16.0.2.0
-- 16.1.0.1: https://gitlab.com/ZyCromerZ/sdclang-16.1.0.1
+# Quick Info
+* Build Date : 20231231
+* Clang Version : ZyC clang version 18.0.0git (https://github.com/llvm/llvm-project c664a51d3439174e2973194fcabd973af658bf63)
+* Binutils Version : master
+* Compiled Based : https://github.com/llvm/llvm-project/commit/c664a51d
+
