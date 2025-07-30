@@ -1,1 +1,1 @@
-https://github.com/ZyCromerZ/Clang/releases/download/(https://github.com/llvm/llvm-project-20250729-release/Clang-(https://github.com/llvm/llvm-project-20250729.tar.gz
+https://github.com/ZyCromerZ/Clang/releases/download/22.0.0git-20250730-release/Clang-22.0.0git-20250730.tar.gz
